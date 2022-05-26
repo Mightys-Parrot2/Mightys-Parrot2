@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **Learning program**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mightys-Parrot](https://github.com/Mightys-Parrot)
+- 👨‍💻 All of my projects are available at [https://github.com/Mightys-Parrot2](https://github.com/Mightys-Parrot)
 
 - 💬 Ask me about **Android , Tech**
 
