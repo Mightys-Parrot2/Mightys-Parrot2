@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/)
 
-<h1 align="center">Hi 👋🌏, I'm Aries</h1>
+<h1 align="center">Hi 👋🌏, I'm PEGASUS</h1>
 
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
