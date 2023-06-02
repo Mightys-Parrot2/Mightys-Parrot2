@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Android , Tech**
 
-- 📫 How to reach me **ariesofficial2@gmail.com**
+- 📫 How to reach me **me.pegasus.io@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
